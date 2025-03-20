@@ -29,9 +29,9 @@ https://robotics.stackexchange.com instead.-->
       - [ ] using VirtualGL, XVFB, Xdummy, XVNC or other indirect rendering utilities
       - [ ] GPU is concurrently used for other tasks
         - [ ] desktop acceleration
-        - [ ] video decoding (i.e. a playing Youtube video)
+        - [ ] video decoding (i.e. a playing YouTube video)
         - [ ] video encoding
-        - [ ] CUDA/ROCm computations (Tensorflow, Torch, Caffe running)
+        - [ ] CUDA/ROCm computations (TensorFlow, Torch, Caffe running)
         - [ ] multiple simulators running at the same time
       - [ ] other...
     - Rendering system info:

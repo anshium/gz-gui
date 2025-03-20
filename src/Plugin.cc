@@ -74,7 +74,7 @@ class Plugin::Implementation
   /// \brief Pointer to wrapping card item
   public: QQuickItem *cardItem{nullptr};
 
-  /// \brief Context in which plugin item was cerated
+  /// \brief Context in which plugin item was created
   public: QQmlContext *context{nullptr};
 
   /// \brief Map of card properties to be passed to QML card object.

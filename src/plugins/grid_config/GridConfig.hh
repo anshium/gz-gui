@@ -111,7 +111,7 @@ namespace gz::gui::plugins
     public slots: void UpdateCellLength(double _length);
 
     /// \brief Callback to update grid pose
-    /// \param[in] _x, _y, _z cartesion coordinates
+    /// \param[in] _x, _y, _z cartesian coordinates
     /// \param[in] _roll, _pitch, _yaw principal coordinates
     public slots: void SetPose(double _x, double _y, double _z,
                                double _roll, double _pitch, double _yaw);
